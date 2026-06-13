@@ -1,0 +1,3 @@
+# Contribution Streak Bot
+
+Starting fresh at commit #1
