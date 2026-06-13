@@ -36,11 +36,11 @@ B2B trade platform — TypeScript-based supply chain and vendor management syste
 ### [finance-tracker](https://github.com/abnormal-yi/finance-tracker)
 Personal finance tracker — TypeScript app for income, expenses, budgets, and spending analytics.
 
+### [helpdesk-system](https://github.com/abnormal-yi/helpdesk-system)
+PHP/MySQL help desk ticketing system for tracking and resolving support tickets.
+
 ### [ai-schema-generator](https://github.com/abnormal-yi/ai-schema-generator)
 AI-powered PHP tool that generates Schema.org JSON-LD markup for better search rankings.
-
-### [helpdesk-system](https://github.com/abnormal-yi/ONLINE-HELP-DESK-WEB-app)
-PHP/MySQL help desk ticketing system for tracking and resolving support tickets.
 
 ---
 
