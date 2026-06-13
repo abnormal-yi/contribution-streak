@@ -39,8 +39,8 @@ Personal finance tracker — TypeScript app for income, expenses, budgets, and s
 ### [helpdesk-system](https://github.com/abnormal-yi/helpdesk-system)
 PHP/MySQL help desk ticketing system for tracking and resolving support tickets.
 
-### [ai-schema-generator](https://github.com/abnormal-yi/ai-schema-generator)
-AI-powered PHP tool that generates Schema.org JSON-LD markup for better search rankings.
+### [gmail-marketing-tool](https://github.com/abnormal-yi/gmail-marketing-tool)
+Email marketing and Gmail integration tool for managing campaigns and templates.
 
 ---
 
